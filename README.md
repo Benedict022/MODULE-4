@@ -1,7 +1,6 @@
-# function-and-errors
+# BUILDING ON AVALANCHE
 
-FUNCTIONS AND ERRORS
-This assessment tackles the require, assert and the revert in Module 1 of Avalanche in Metacraters.
+For the last module the task for this mint, redeem, transger and check balance of the player or user
 
 # DESCRIPTION
 Require is a term for a requirement that must be fulfilled for the function to proceed. If the condition evaluates to false, the function will rerun with all state alterations made during the execution undone. Assert: This verb is used to look for circumstances that don't have to be evaluated as false. It is usually used to look for internal problems or static circumstances. To reverse the current transaction and display an optional error message, use the "Revert" command.
